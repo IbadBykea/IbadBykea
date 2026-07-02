@@ -1,5 +1,3 @@
-Here is a clean, professional, and visually appealing GitHub README generated from your resume and background. You can copy and paste this directly into your profile's `README.md` file.
-
 # Hi there, I'm Ibadur Rahman Farooq 👋
 
 **Artificial Intelligence Graduate | Computer Vision | RAG & Full-Stack Developer**
